@@ -1,6 +1,6 @@
 # Apex Devices - Sales Performance Analysis (2025)
 
-🔗 [View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmIyMWEwYWQtNDQ0OC00MTU2LWIwMWMtMmVjMTIyZmE1M2FmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+🔗 [View Interactive Power BI Dashboard](https://app.powerbi.com/view)
 
 **Apex Devices**, a fast-growing tech company, leverages Power BI to transform sales data into actionable business insights. This project, *Sales Performance Analysis*, offers a 360° view of sales metrics, executive trends, and marketing performance — designed with a futuristic approach, including **3D visuals and dynamic storytelling**, tailored for 2025 and beyond.
 
@@ -72,19 +72,19 @@ To enable **data-driven decision-making** by visualizing comprehensive insights 
 ![Homepage](https://github.com/ranjanukey/Sales-Performance-Analysis/blob/master/Power%20Bi/Preview%20of%20power%20bi_page-0001.jpg)
 
 #### 💰 Finance View
-![Finance View](https://github.com/Manikantanaidu1729/Business-Insights-360-of-AtliQ-Hardware/assets/153293142/af56ea95-e856-4b8f-81e0-7be85785db1c)
+![Finance View](https://github.com/ranjanukey/Sales-Performance-Analysis/blob/master/Power%20Bi/Preview%20of%20power%20bi_page-0002.jpg)
 
 #### 🛒 Sales View
-![Sales View](https://github.com/Manikantanaidu1729/Business-Insights-360-of-AtliQ-Hardware/assets/153293142/c3484d96-0e6d-46bb-96c6-a5bb53dd26ed)
+![Sales View](https://github.com/ranjanukey/Sales-Performance-Analysis/blob/03f7b6e8c0fffe857bbf134c035be693d5be330d/Power%20Bi/Preview%20of%20power%20bi_page-0003.jpg)
 
 #### 📢 Marketing View
-![Marketing View](https://github.com/Manikantanaidu1729/Business-Insights-360-of-AtliQ-Hardware/assets/153293142/6249e21a-d9af-419f-9703-dcd9569fa272)
+![Marketing View](https://github.com/ranjanukey/Sales-Performance-Analysis/blob/master/Power%20Bi/Preview%20of%20power%20bi_page-0004.jpg)
 
 #### 🚚 Supply Chain View
-![Supply Chain View](https://github.com/Manikantanaidu1729/Business-Insights-360-of-AtliQ-Hardware/assets/153293142/08aa6082-2720-430a-9c0e-64bafcdccddc)
+![Supply Chain View](https://github.com/ranjanukey/Sales-Performance-Analysis/blob/master/Power%20Bi/Preview%20of%20power%20bi_page-0005.jpg)
 
 #### 🧑‍💼 Executive View
-![Executive View](https://github.com/Manikantanaidu1729/Business-Insights-360-of-AtliQ-Hardware/assets/153293142/ed6d29de-20de-496f-bafa-87ef4b041c4d)
+![Executive View](https://github.com/ranjanukey/Sales-Performance-Analysis/blob/master/Power%20Bi/Preview%20of%20power%20bi_page-0006.jpg)
 
 ---
 
