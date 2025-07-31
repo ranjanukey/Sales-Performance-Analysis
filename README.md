@@ -69,7 +69,7 @@ To enable **data-driven decision-making** by visualizing comprehensive insights 
 ### 📈 Report Views
 
 #### 📌 Homepage
-![Homepage]([https://github.com/Manikantanaidu1729/Business-Insights-360-of-AtliQ-Hardware/assets/153293142/58856032-5e28-4a5f-97cc-defa991a1367](https://github.com/ranjanukey/Sales-Performance-Analysis/blob/master/Power%20Bi/Preview%20of%20power%20bi_page-0001.jpg)
+![Homepage](https://github.com/ranjanukey/Sales-Performance-Analysis/blob/master/Power%20Bi/Preview%20of%20power%20bi_page-0001.jpg)
 
 #### 💰 Finance View
 ![Finance View](https://github.com/Manikantanaidu1729/Business-Insights-360-of-AtliQ-Hardware/assets/153293142/af56ea95-e856-4b8f-81e0-7be85785db1c)
