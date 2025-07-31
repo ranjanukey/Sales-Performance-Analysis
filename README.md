@@ -1,99 +1,121 @@
-# Apex Devices - Sales Performance Analysis (2025)
+<p align="center">
+  <img src="https://img.icons8.com/clouds/500/analytics.png" alt="Apex Devices Logo" width="150"/>
+</p>
 
-🔗 [View Interactive Power BI Dashboard](https://app.powerbi.com/view)
+<h1 align="center">📊 Apex Devices - Sales Performance Analysis (2025) 🚀</h1>
 
-**Apex Devices**, a fast-growing tech company, leverages Power BI to transform sales data into actionable business insights. This project, *Sales Performance Analysis*, offers a 360° view of sales metrics, executive trends, and marketing performance — designed with a futuristic approach, including **3D visuals and dynamic storytelling**, tailored for 2025 and beyond.
-
----
-
-### 🚀 Objective
-
-To enable **data-driven decision-making** by visualizing comprehensive insights into sales, marketing, finance, and supply chain operations. The report helps stakeholders identify growth opportunities and performance gaps across global markets.
-
----
-
-### 🧰 Tools & Technology Stack
-
-- SQL  
-- Power BI Desktop  
-- Excel  
-- DAX Language  
-- DAX Studio  
-- Microsoft Power BI Service  
+<p align="center">
+  <a href="https://app.powerbi.com/view">
+    <img src="https://img.shields.io/badge/PowerBI-Dashboard-blue?style=for-the-badge&logo=powerbi" alt="Power BI Dashboard"/>
+  </a>
+  <a href="https://github.com/ranjanukey/Sales-Performance-Analysis">
+    <img src="https://img.shields.io/github/stars/ranjanukey/Sales-Performance-Analysis?style=for-the-badge" alt="GitHub Repo stars"/>
+  </a>
+</p>
 
 ---
 
-### 📊 Key Features & Techniques Used
-
-- Framing business questions into data objectives
-- Creating calculated columns and measures using DAX
-- Advanced data modeling and relationships
-- Use of **3D visuals** and modern design patterns
-- Dynamic titles and bookmarks for seamless storytelling
-- Conditional formatting with icons and color scales
-- KPI indicators with threshold visualization
-- Buttons for page navigation and interactivity
-- Error handling using `DIVIDE()` function
-- Automated refresh via data gateway
-- Power BI App creation & workspace collaboration
-- Secure role-level access setup
+📌 **Apex Devices**, a fast-growing tech company, leverages Power BI to turn raw sales data into actionable insights. This futuristic project offers a **360° visual analysis** of KPIs with **3D-inspired dashboards, modern storytelling, and advanced interactivity** — curated for 2025 and beyond.
 
 ---
 
-### 🏢 Company Background
+## 🎯 Objective
 
-**Apex Devices** supplies high-performance computing accessories to retailers and direct distributors globally. Following a recent setback in its American division — attributed to intuition-led decisions — the organization has transitioned to **data-centric operations** using Power BI.
+To empower **data-driven decisions** through dynamic dashboards covering finance, sales, supply chain, and marketing — helping stakeholders spot performance gaps and growth opportunities.
 
 ---
 
-### 📁 Project Structure
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/sql.png" title="SQL"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" title="Excel"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" title="Power BI"/>
+  <img src="https://img.icons8.com/external-outline-juicy-fish/48/external-dax-programming-and-coding-outline-outline-juicy-fish.png" title="DAX"/>
+  <img src="https://img.icons8.com/color/48/windows-10.png" title="Windows"/>
+</p>
+
+- SQL for querying and ETL
+- Power BI Desktop & Service for visualization
+- DAX Studio for performance tuning
+- Excel for pre-analysis and structuring
+
+---
+
+## 💡 Features & Techniques
+
+✔️ Business question formulation  
+✔️ Calculated columns & measures (DAX)  
+✔️ Smart data modeling  
+✔️ Dynamic visuals using **3D charts** & Bookmarks  
+✔️ KPI indicators with thresholds  
+✔️ Conditional formatting (icons, backgrounds)  
+✔️ Interactive buttons for page navigation  
+✔️ Data refresh automation with Gateway  
+✔️ App workspace and role-level security setup
+
+---
+
+## 🏢 About Apex Devices
+
+**Apex Devices** supplies high-performance computing accessories globally. After facing issues due to guess-based decisions, the company pivoted to **analytics-first strategies** led by this Power BI initiative.
+
+---
+
+## 🗂️ Folder Structure
 
 ```
-📂 Datasets
-📂 Datasets in gdb041
-📂 Datasets in gdb056
-📂 Excel Output
-📂 icons
-📂 Mockups
-📂 Project Charter
-📂 SQL
-📄 README.md
-📄 Preview of power bi (Power BI report)
+📦 Sales Performance Analysis
+ ┣ 📂 Datasets
+ ┣ 📂 gdb041 & gdb056 data
+ ┣ 📂 Excel Output
+ ┣ 📂 Icons
+ ┣ 📂 Project Charter
+ ┣ 📂 SQL Scripts
+ ┣ 📜 README.md
+ ┗ 📊 Power BI Report Files
 ```
 
-📸 **Folder Overview**
-![Folder Structure](03320f76-3ff9-4538-970c-149c151be85c.png)
+📷 **Project Image**  
+![Folder Overview](03320f76-3ff9-4538-970c-149c151be85c.png)
 
 ---
 
-### 📈 Report Views
+## 📈 Report Snapshots
 
-#### 📌 Homepage
+### 🏠 Homepage
 ![Homepage](https://github.com/ranjanukey/Sales-Performance-Analysis/blob/master/Power%20Bi/Preview%20of%20power%20bi_page-0001.jpg)
 
-#### 💰 Finance View
+### 💵 Finance View
 ![Finance View](https://github.com/ranjanukey/Sales-Performance-Analysis/blob/master/Power%20Bi/Preview%20of%20power%20bi_page-0002.jpg)
 
-#### 🛒 Sales View
+### 🛍️ Sales View
 ![Sales View](https://github.com/ranjanukey/Sales-Performance-Analysis/blob/03f7b6e8c0fffe857bbf134c035be693d5be330d/Power%20Bi/Preview%20of%20power%20bi_page-0003.jpg)
 
-#### 📢 Marketing View
+### 📣 Marketing View
 ![Marketing View](https://github.com/ranjanukey/Sales-Performance-Analysis/blob/master/Power%20Bi/Preview%20of%20power%20bi_page-0004.jpg)
 
-#### 🚚 Supply Chain View
+### 🚛 Supply Chain View
 ![Supply Chain View](https://github.com/ranjanukey/Sales-Performance-Analysis/blob/master/Power%20Bi/Preview%20of%20power%20bi_page-0005.jpg)
 
-#### 🧑‍💼 Executive View
+### 👤 Executive View
 ![Executive View](https://github.com/ranjanukey/Sales-Performance-Analysis/blob/master/Power%20Bi/Preview%20of%20power%20bi_page-0006.jpg)
 
 ---
 
-### 🙋‍♂️ Author
+## 🙋‍♂️ Author
 
 **Ranjan Ukey**  
-Intern | Power BI Enthusiast | Data Storyteller  
-Inspired by Codebasics Power BI Challenge
+📍 Intern | 📊 Power BI Developer | 🎨 Data Storyteller  
+🌟 Inspired by Codebasics Power BI Challenge
 
 ---
 
-### ⭐️ If you find this project helpful, please consider giving it a ⭐️ on GitHub!
+## 🌟 Support
+
+If this repo helped you, **star it** and **share it**!  
+🔗 [Follow me on GitHub](https://github.com/ranjanukey)
+
+<p align="center">
+  <img src="https://img.icons8.com/nolan/64/github.png"/>
+</p>
